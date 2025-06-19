@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section-one__container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    color: grey;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.section-one__desc{
+    margin-top: 5px;
+}
+.section-two__role{
+    border: solid black 2px;
+    display: inline-block;
+    width: 230px;
+}
+.section-two__container{
+    text-align: center;
+    margin-top: 15px;
+}
+.section-two__role input{
+    background-color:black;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.section-two__submit:hover{
+    background-color: white;
+    color: black;
+    border: none;
+
+}
+
+.contact-form{
+    margin-top: 15px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+.contact-form__desc{
+    display: inline-block;
+
+}
+.contact-form{
+    text-align: center;
+}
+.contact-form__input,.contact-form__submit{
+    margin-top: 5px;
+}
+    
+
+.contact-form__submit{
+    background-color: yellow;
+    color: black;
+    width: 250px;
+    
+}
+
+
+
+
+
+
+
